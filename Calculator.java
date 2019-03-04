@@ -4,7 +4,5 @@ public class Calculator
     {
         System.out.println("hello world!");
         System.out.println("Calculator java program");
-                System.out.println("hello world!");
-        System.out.println("Calculator java program");
     }
 }
