@@ -10,4 +10,9 @@ public class Calculator
     {
         System.out.println("addition = " + (num1+num2)); 
     }
+    
+    public static void subtraction(int num1,int num2)
+    {
+        System.out.println("subtraction = " + (num1-num2)); 
+    }
 }
