@@ -15,4 +15,9 @@ public class Calculator
     {
         System.out.println("subtraction = " + (num1-num2)); 
     }
+
+    public static void multiplication(int num1,int num2)
+    {
+        System.out.println("multiplication = " + (num1*num2)); 
+    }
 }
